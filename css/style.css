@@ -1,0 +1,8 @@
+.banner {
+    position: relative;
+    background: linear-gradient( #333, #eee);
+    min-height: 1vh;
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0 50px;
+}
